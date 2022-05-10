@@ -2,7 +2,7 @@
 
 ## 🙋‍ Cognex OCR Inspection Sample
 
-# ✍ sequence
+## ✍ sequence
 
 1. Pattern Search
 2. Origin Pose, OCR ROI Search
