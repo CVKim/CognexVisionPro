@@ -1,4 +1,4 @@
-# CognexVisionPro
+# CognexVisionPro / Alignment OCR Inspection
 
 ## 🙋‍ Cognex OCR Inspection Sample
 
